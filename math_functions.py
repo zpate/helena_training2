@@ -14,3 +14,7 @@ def division(x, y):
 def exponent(x,y):
     new_number = x^y
     return new_number
+
+def multiplication(x,y):
+    new_number = x*y
+    return new_number
