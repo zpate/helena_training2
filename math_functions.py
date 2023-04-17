@@ -6,3 +6,7 @@ def addition(x, y):
 def subtraction(x, y):
     new_number = x - y
     return new_number
+
+def division(x, y):
+    new_number = x/y
+    return new_number
